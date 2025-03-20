@@ -1,5 +1,4 @@
 function solution(x) {
-    var answer = true;
     let s = String(x);
     let sum = 0;
     
